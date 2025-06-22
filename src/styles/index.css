@@ -1,0 +1,14 @@
+@import 'antd/dist/reset.css';
+
+* { 
+  box-sizing: border-box; 
+}
+
+html, body, #root { 
+  height: 100%; 
+  margin: 0; 
+}
+
+.ant-layout { 
+  min-height: 100vh; 
+} 
